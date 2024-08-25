@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solo300&label=Profile%20views&color=0e75b6&style=flat" alt="solo300" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solo300" alt="solo300" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ahmedal41429498" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedal41429498?logo=twitter&style=for-the-badge" alt="ahmedal41429498" /></a> </p>
 
 - 📫 How to reach me **alaa.aaak74@gmail.com**
@@ -15,6 +13,10 @@
 <a href="https://twitter.com/ahmedal41429498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedal41429498" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmed alaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed alaa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ahmed alaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahmed alaa" height="30" width="40" /></a>
+<a href="https://fb.com/ahmed alaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed alaa" height="30" width="40" /></a>
+<a href="https://instagram.com/ahmed_alaa_3000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_alaa_3000" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ahmed alaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed alaa" height="30" width="40" /></a>
+<a href="https://discord.gg/solokiller." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="solokiller." height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
